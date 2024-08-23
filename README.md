@@ -1,4 +1,4 @@
-# Portfólio Nathan Rodrigues
+# Portfólio Larissa Alvarenga
 
 Este é o repositório do meu portfólio pessoal, onde demonstro minhas habilidades e projetos recentes. Utilizei HTML, CSS, JavaScript e Bootstrap para criar um site responsivo e moderno. Além disso, integrei o Formspree para facilitar o envio de e-mails diretamente pelo site.
 
