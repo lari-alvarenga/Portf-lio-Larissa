@@ -1,4 +1,4 @@
-# Portfólio Larissa Alvarenga
+# Portfólio Larissa
 
 Este é o repositório do meu portfólio pessoal, onde demonstro minhas habilidades e projetos recentes. Utilizei HTML, CSS, JavaScript e Bootstrap para criar um site responsivo e moderno. Além disso, integrei o Formspree para facilitar o envio de e-mails diretamente pelo site.
 
@@ -24,4 +24,4 @@ Este é o repositório do meu portfólio pessoal, onde demonstro minhas habilida
 
 ## Contato
 
-Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/seu-perfil-linkedin/) para mais informações e outras formas de contato.
+Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/larissa-alvarenga-ads/) para mais informações e outras formas de contato.
